@@ -135,7 +135,7 @@ All charts are saved in the `visualizations/` folder.
 
 ---
 
-## ⭐ Conclusion
+## Conclusion
 
 This project demonstrates how raw data can be transformed into meaningful insights using Python. It showcases a complete workflow from data preprocessing to visualization and reporting.
 
