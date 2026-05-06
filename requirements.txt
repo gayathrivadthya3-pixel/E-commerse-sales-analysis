@@ -1,0 +1,33 @@
+requirements.txt (Final)
+
+Create a file named requirements.txt and add this:
+
+pandas
+matplotlib
+Why only these?
+pandas → for data loading, cleaning, analysis
+matplotlib → for charts (bar, line, pie)
+
+How to install
+
+Run this in terminal:
+
+pip install -r requirements.txt
+
+If you want slightly more advanced look:
+
+pandas
+matplotlib
+seaborn
+
+Install:
+
+pip install seaborn
+
+Add Python version (optional but professional):
+
+pandas
+matplotlib
+
+# Python version used
+# Python 3.x
